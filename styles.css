@@ -3,6 +3,7 @@
 
 :root {
     --laranja-claro: #FF862A;
+
 }
 
 body {
@@ -137,8 +138,6 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
-
-/* Aula 05*/
 .menu-acessibilidade{
     position: fixed;
     top:2rem;
